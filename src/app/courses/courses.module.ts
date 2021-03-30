@@ -39,7 +39,6 @@ export const coursesRoutes: Routes = [
   }
 ];
 
-
 @NgModule({
   imports: [
     CommonModule,
